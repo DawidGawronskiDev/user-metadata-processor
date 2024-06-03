@@ -22,7 +22,7 @@ The output will be saved in a file named inputFile_output.json.
 
 Example
 ```sh
-node mainScript.js user_meta.txt
+node user-generator user_meta.txt
 ```
 This will produce an output file named user_meta_output.json.
 
