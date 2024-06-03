@@ -13,7 +13,7 @@ The input text file should be a .txt file with lines formatted as follows:
 To run the script, use the following command in your terminal:
 
 ```sh
-node mainScript.js inputFile.txt
+node user-generator inputFile.txt
 ```
 
 inputFile.txt: The path to the input text file containing the user metadata.
